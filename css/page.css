@@ -1,0 +1,58 @@
+body {
+    align-items: center;
+}
+h1, h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 20px 0;
+}
+
+.card h2 {
+    font-weight: bold;
+    font-style: italic;
+}
+.container {
+    width: 80%;
+    max-width: 900px;
+    text-align: center;
+    overflow: visible;
+}
+
+.gradient {
+    background: linear-gradient(to top, #004AAD, #A8E6CF);
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+img {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+ul {
+    text-align: justify;
+    list-style-position: inside;
+    padding-left: 0;
+    margin-left: 0;
+    width: 100%;
+  }
+li {
+    text-align: justify;
+  }

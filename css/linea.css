@@ -1,0 +1,30 @@
+body { 
+    align-items: center;
+}
+
+.line {
+    width: 50%;
+    background-color: black;
+}
+.line2{
+    width: 5%;
+    background-color: black;
+}
+.input-line {
+    border: 1px solid black;
+    height: 20px;
+    width: 100%;
+}
+.input-line2 {
+    border: 1px solid black;
+    height: 20px;
+    width: 75%;
+}
+.blue-line {
+    height: 15px;
+    background-color: blue;
+}
+.red-line {
+    height: 25px;
+    background-color: red;
+}
